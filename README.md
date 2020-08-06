@@ -1,4 +1,4 @@
-#Patatap Clone
+# Patatap Clone
 This is a clone of a famous website [patatap](https://patatap.com).
 
 This site was built using paperjs (for animations) and howlerjs (for sounds).
