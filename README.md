@@ -19,3 +19,5 @@ To get rid of these errors you can run the following commands in your terminal.
 After this you may open the following link in your browser :
 
 `http://localhost:8000/circles.html`
+
+Check Out the game [here](https://rishisethia258.github.io/Patatap-Clone/circles.html)
